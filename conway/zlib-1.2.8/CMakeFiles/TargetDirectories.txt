@@ -1,0 +1,13 @@
+C:/Users/mati5/Documents/CodeBlocks/conway/zlib-1.2.8/CMakeFiles/install/strip.dir
+C:/Users/mati5/Documents/CodeBlocks/conway/zlib-1.2.8/CMakeFiles/install/local.dir
+C:/Users/mati5/Documents/CodeBlocks/conway/zlib-1.2.8/CMakeFiles/example64.dir
+C:/Users/mati5/Documents/CodeBlocks/conway/zlib-1.2.8/CMakeFiles/zlib.dir
+C:/Users/mati5/Documents/CodeBlocks/conway/zlib-1.2.8/CMakeFiles/test.dir
+C:/Users/mati5/Documents/CodeBlocks/conway/zlib-1.2.8/CMakeFiles/minigzip64.dir
+C:/Users/mati5/Documents/CodeBlocks/conway/zlib-1.2.8/CMakeFiles/example.dir
+C:/Users/mati5/Documents/CodeBlocks/conway/zlib-1.2.8/CMakeFiles/zlibstatic.dir
+C:/Users/mati5/Documents/CodeBlocks/conway/zlib-1.2.8/CMakeFiles/minigzip.dir
+C:/Users/mati5/Documents/CodeBlocks/conway/zlib-1.2.8/CMakeFiles/rebuild_cache.dir
+C:/Users/mati5/Documents/CodeBlocks/conway/zlib-1.2.8/CMakeFiles/edit_cache.dir
+C:/Users/mati5/Documents/CodeBlocks/conway/zlib-1.2.8/CMakeFiles/list_install_components.dir
+C:/Users/mati5/Documents/CodeBlocks/conway/zlib-1.2.8/CMakeFiles/install.dir

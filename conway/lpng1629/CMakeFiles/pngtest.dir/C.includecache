@@ -1,0 +1,56 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Program Files (x86)/GnuWin32/include/zconf.h
+windows.h
+-
+sys/types.h
+-
+unistd.h
+-
+unixio.h
+-
+
+C:/Program Files (x86)/GnuWin32/include/zlib.h
+zconf.h
+C:/Program Files (x86)/GnuWin32/include/zconf.h
+
+C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/png.h
+pnglibconf.h
+C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/pnglibconf.h
+pngconf.h
+C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/pngconf.h
+
+C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/pngconf.h
+limits.h
+-
+stddef.h
+-
+stdio.h
+-
+setjmp.h
+-
+time.h
+-
+
+C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/pnglibconf.h
+
+C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/pngtest.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+png.h
+C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/png.h
+zlib.h
+C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/zlib.h
+time.h
+-
+

@@ -1,0 +1,64 @@
+# depslib dependency file v1.0
+1504048857 source:c:\users\mati5\documents\codeblocks\conway\main.c
+	"program_constants.h"
+	"png_generator.h"
+	"generation.h"
+	"file_man.h"
+
+1489670462 c:\users\mati5\documents\codeblocks\conway\lpng1629\png.h
+	"pnglibconf.h"
+	"pngconf.h"
+
+1489670462 c:\users\mati5\documents\codeblocks\conway\lpng1629\pngconf.h
+	<limits.h>
+	<stddef.h>
+	<stdio.h>
+	<setjmp.h>
+	<time.h>
+
+1492439674 c:\users\mati5\documents\codeblocks\conway\lpng1629\pnglibconf.h
+
+1489670462 c:\libraries\lpng1629\png.h
+	"pnglibconf.h"
+	"pngconf.h"
+
+1492437154 c:\libraries\lpng1629\pnglibconf.h
+
+1489670462 c:\libraries\lpng1629\pngconf.h
+	<limits.h>
+	<stddef.h>
+	<stdio.h>
+	<setjmp.h>
+	<time.h>
+
+1504049605 c:\users\mati5\documents\codeblocks\conway\program_constants.h
+	<stdio.h>
+	<stdlib.h>
+	<png.h>
+	<stdbool.h>
+	<string.h>
+	<unistd.h>
+	<dirent.h>
+	<errno.h>
+	<ctype.h>
+
+1501181193 c:\users\mati5\documents\codeblocks\conway\png_generator.h
+
+1503527480 c:\users\mati5\documents\codeblocks\conway\generation.h
+	"program_constants.h"
+
+1504046377 c:\users\mati5\documents\codeblocks\conway\file_man.h
+	"program_constants.h"
+
+1504046377 source:c:\users\mati5\documents\codeblocks\conway\file_man.c
+	"file_man.h"
+	"program_constants.h"
+
+1503528152 source:c:\users\mati5\documents\codeblocks\conway\generation.c
+	"generation.h"
+	"program_constants.h"
+
+1501183243 source:c:\users\mati5\documents\codeblocks\conway\png_generator.c
+	"png_generator.h"
+	"program_constants.h"
+

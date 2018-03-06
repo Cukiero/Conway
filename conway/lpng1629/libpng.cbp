@@ -1,0 +1,728 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="libpng"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\scripts\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="genfiles">
+				<Option working_dir="C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/Makefile&quot;  VERBOSE=1 genfiles"/>
+					<CompileFile command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="pngimage">
+				<Option output="C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/pngimage.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Program Files (x86)/GnuWin32/include"/>
+					<Add directory="C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629"/>
+					<Add directory="C:/Program Files (x86)/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/4.9.2/include"/>
+					<Add directory="C:/Program Files (x86)/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/4.9.2/../../../../include"/>
+					<Add directory="C:/Program Files (x86)/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/4.9.2/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/Makefile&quot;  VERBOSE=1 pngimage"/>
+					<CompileFile command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="pngimage/fast">
+				<Option output="C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/pngimage.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Program Files (x86)/GnuWin32/include"/>
+					<Add directory="C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629"/>
+					<Add directory="C:/Program Files (x86)/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/4.9.2/include"/>
+					<Add directory="C:/Program Files (x86)/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/4.9.2/../../../../include"/>
+					<Add directory="C:/Program Files (x86)/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/4.9.2/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/Makefile&quot;  VERBOSE=1 pngimage/fast"/>
+					<CompileFile command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="libpng.pc_COPY">
+				<Option working_dir="C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/Makefile&quot;  VERBOSE=1 libpng.pc_COPY"/>
+					<CompileFile command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="png">
+				<Option output="C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/libpng16.dll" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629"/>
+				<Option object_output="./"/>
+				<Option type="3"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Program Files (x86)/GnuWin32/include"/>
+					<Add directory="C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629"/>
+					<Add directory="C:/Program Files (x86)/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/4.9.2/include"/>
+					<Add directory="C:/Program Files (x86)/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/4.9.2/../../../../include"/>
+					<Add directory="C:/Program Files (x86)/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/4.9.2/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/Makefile&quot;  VERBOSE=1 png"/>
+					<CompileFile command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="png/fast">
+				<Option output="C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/libpng16.dll" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629"/>
+				<Option object_output="./"/>
+				<Option type="3"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Program Files (x86)/GnuWin32/include"/>
+					<Add directory="C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629"/>
+					<Add directory="C:/Program Files (x86)/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/4.9.2/include"/>
+					<Add directory="C:/Program Files (x86)/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/4.9.2/../../../../include"/>
+					<Add directory="C:/Program Files (x86)/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/4.9.2/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/Makefile&quot;  VERBOSE=1 png/fast"/>
+					<CompileFile command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="png_static">
+				<Option output="C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/libpng16.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Program Files (x86)/GnuWin32/include"/>
+					<Add directory="C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629"/>
+					<Add directory="C:/Program Files (x86)/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/4.9.2/include"/>
+					<Add directory="C:/Program Files (x86)/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/4.9.2/../../../../include"/>
+					<Add directory="C:/Program Files (x86)/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/4.9.2/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/Makefile&quot;  VERBOSE=1 png_static"/>
+					<CompileFile command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="png_static/fast">
+				<Option output="C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/libpng16.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Program Files (x86)/GnuWin32/include"/>
+					<Add directory="C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629"/>
+					<Add directory="C:/Program Files (x86)/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/4.9.2/include"/>
+					<Add directory="C:/Program Files (x86)/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/4.9.2/../../../../include"/>
+					<Add directory="C:/Program Files (x86)/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/4.9.2/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/Makefile&quot;  VERBOSE=1 png_static/fast"/>
+					<CompileFile command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="libpng.a_COPY">
+				<Option working_dir="C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/Makefile&quot;  VERBOSE=1 libpng.a_COPY"/>
+					<CompileFile command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="libpng.dll.a_COPY">
+				<Option working_dir="C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/Makefile&quot;  VERBOSE=1 libpng.dll.a_COPY"/>
+					<CompileFile command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="pngfix">
+				<Option output="C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/pngfix.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Program Files (x86)/GnuWin32/include"/>
+					<Add directory="C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629"/>
+					<Add directory="C:/Program Files (x86)/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/4.9.2/include"/>
+					<Add directory="C:/Program Files (x86)/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/4.9.2/../../../../include"/>
+					<Add directory="C:/Program Files (x86)/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/4.9.2/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/Makefile&quot;  VERBOSE=1 pngfix"/>
+					<CompileFile command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="pngfix/fast">
+				<Option output="C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/pngfix.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Program Files (x86)/GnuWin32/include"/>
+					<Add directory="C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629"/>
+					<Add directory="C:/Program Files (x86)/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/4.9.2/include"/>
+					<Add directory="C:/Program Files (x86)/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/4.9.2/../../../../include"/>
+					<Add directory="C:/Program Files (x86)/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/4.9.2/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/Makefile&quot;  VERBOSE=1 pngfix/fast"/>
+					<CompileFile command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="pngstest">
+				<Option output="C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/pngstest.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Program Files (x86)/GnuWin32/include"/>
+					<Add directory="C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629"/>
+					<Add directory="C:/Program Files (x86)/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/4.9.2/include"/>
+					<Add directory="C:/Program Files (x86)/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/4.9.2/../../../../include"/>
+					<Add directory="C:/Program Files (x86)/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/4.9.2/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/Makefile&quot;  VERBOSE=1 pngstest"/>
+					<CompileFile command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="pngstest/fast">
+				<Option output="C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/pngstest.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Program Files (x86)/GnuWin32/include"/>
+					<Add directory="C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629"/>
+					<Add directory="C:/Program Files (x86)/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/4.9.2/include"/>
+					<Add directory="C:/Program Files (x86)/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/4.9.2/../../../../include"/>
+					<Add directory="C:/Program Files (x86)/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/4.9.2/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/Makefile&quot;  VERBOSE=1 pngstest/fast"/>
+					<CompileFile command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="pngvalid">
+				<Option output="C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/pngvalid.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Program Files (x86)/GnuWin32/include"/>
+					<Add directory="C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629"/>
+					<Add directory="C:/Program Files (x86)/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/4.9.2/include"/>
+					<Add directory="C:/Program Files (x86)/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/4.9.2/../../../../include"/>
+					<Add directory="C:/Program Files (x86)/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/4.9.2/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/Makefile&quot;  VERBOSE=1 pngvalid"/>
+					<CompileFile command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="pngvalid/fast">
+				<Option output="C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/pngvalid.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Program Files (x86)/GnuWin32/include"/>
+					<Add directory="C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629"/>
+					<Add directory="C:/Program Files (x86)/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/4.9.2/include"/>
+					<Add directory="C:/Program Files (x86)/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/4.9.2/../../../../include"/>
+					<Add directory="C:/Program Files (x86)/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/4.9.2/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/Makefile&quot;  VERBOSE=1 pngvalid/fast"/>
+					<CompileFile command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="pngtest">
+				<Option output="C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/pngtest.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Program Files (x86)/GnuWin32/include"/>
+					<Add directory="C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629"/>
+					<Add directory="C:/Program Files (x86)/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/4.9.2/include"/>
+					<Add directory="C:/Program Files (x86)/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/4.9.2/../../../../include"/>
+					<Add directory="C:/Program Files (x86)/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/4.9.2/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/Makefile&quot;  VERBOSE=1 pngtest"/>
+					<CompileFile command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="pngtest/fast">
+				<Option output="C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/pngtest.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Program Files (x86)/GnuWin32/include"/>
+					<Add directory="C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629"/>
+					<Add directory="C:/Program Files (x86)/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/4.9.2/include"/>
+					<Add directory="C:/Program Files (x86)/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/4.9.2/../../../../include"/>
+					<Add directory="C:/Program Files (x86)/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/4.9.2/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/Makefile&quot;  VERBOSE=1 pngtest/fast"/>
+					<CompileFile command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="pngunknown">
+				<Option output="C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/pngunknown.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Program Files (x86)/GnuWin32/include"/>
+					<Add directory="C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629"/>
+					<Add directory="C:/Program Files (x86)/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/4.9.2/include"/>
+					<Add directory="C:/Program Files (x86)/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/4.9.2/../../../../include"/>
+					<Add directory="C:/Program Files (x86)/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/4.9.2/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/Makefile&quot;  VERBOSE=1 pngunknown"/>
+					<CompileFile command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="pngunknown/fast">
+				<Option output="C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/pngunknown.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Program Files (x86)/GnuWin32/include"/>
+					<Add directory="C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629"/>
+					<Add directory="C:/Program Files (x86)/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/4.9.2/include"/>
+					<Add directory="C:/Program Files (x86)/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/4.9.2/../../../../include"/>
+					<Add directory="C:/Program Files (x86)/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/4.9.2/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/Makefile&quot;  VERBOSE=1 pngunknown/fast"/>
+					<CompileFile command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="png-fix-itxt">
+				<Option output="C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/png-fix-itxt.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Program Files (x86)/GnuWin32/include"/>
+					<Add directory="C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629"/>
+					<Add directory="C:/Program Files (x86)/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/4.9.2/include"/>
+					<Add directory="C:/Program Files (x86)/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/4.9.2/../../../../include"/>
+					<Add directory="C:/Program Files (x86)/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/4.9.2/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/Makefile&quot;  VERBOSE=1 png-fix-itxt"/>
+					<CompileFile command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="png-fix-itxt/fast">
+				<Option output="C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/png-fix-itxt.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Program Files (x86)/GnuWin32/include"/>
+					<Add directory="C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629"/>
+					<Add directory="C:/Program Files (x86)/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/4.9.2/include"/>
+					<Add directory="C:/Program Files (x86)/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/4.9.2/../../../../include"/>
+					<Add directory="C:/Program Files (x86)/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/4.9.2/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/Makefile&quot;  VERBOSE=1 png-fix-itxt/fast"/>
+					<CompileFile command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="libpng-config_COPY">
+				<Option working_dir="C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/Makefile&quot;  VERBOSE=1 libpng-config_COPY"/>
+					<CompileFile command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="test">
+				<Option working_dir="C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/Makefile&quot;  VERBOSE=1 test"/>
+					<CompileFile command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="list_install_components">
+				<Option working_dir="C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/Makefile&quot;  VERBOSE=1 list_install_components"/>
+					<CompileFile command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="install">
+				<Option working_dir="C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/Makefile&quot;  VERBOSE=1 install"/>
+					<CompileFile command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="install/strip">
+				<Option working_dir="C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/Makefile&quot;  VERBOSE=1 install/strip"/>
+					<CompileFile command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="install/local">
+				<Option working_dir="C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/Makefile&quot;  VERBOSE=1 install/local"/>
+					<CompileFile command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/contrib/libtests/pngimage.c">
+			<Option target="pngimage"/>
+		</Unit>
+		<Unit filename="C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/contrib/libtests/pngstest.c">
+			<Option target="pngstest"/>
+		</Unit>
+		<Unit filename="C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/contrib/libtests/pngunknown.c">
+			<Option target="pngunknown"/>
+		</Unit>
+		<Unit filename="C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/contrib/libtests/pngvalid.c">
+			<Option target="pngvalid"/>
+		</Unit>
+		<Unit filename="C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/contrib/tools/png-fix-itxt.c">
+			<Option target="png-fix-itxt"/>
+		</Unit>
+		<Unit filename="C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/contrib/tools/pngfix.c">
+			<Option target="pngfix"/>
+		</Unit>
+		<Unit filename="C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/png.c">
+			<Option target="png"/>
+			<Option target="png_static"/>
+		</Unit>
+		<Unit filename="C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/png.h">
+			<Option target="png"/>
+			<Option target="png_static"/>
+		</Unit>
+		<Unit filename="C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/pngconf.h">
+			<Option target="png"/>
+			<Option target="png_static"/>
+		</Unit>
+		<Unit filename="C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/pngdebug.h">
+			<Option target="png"/>
+			<Option target="png_static"/>
+		</Unit>
+		<Unit filename="C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/pngerror.c">
+			<Option target="png"/>
+			<Option target="png_static"/>
+		</Unit>
+		<Unit filename="C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/pngget.c">
+			<Option target="png"/>
+			<Option target="png_static"/>
+		</Unit>
+		<Unit filename="C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/pnginfo.h">
+			<Option target="png"/>
+			<Option target="png_static"/>
+		</Unit>
+		<Unit filename="C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/pnglibconf.h">
+			<Option target="png"/>
+			<Option target="png_static"/>
+		</Unit>
+		<Unit filename="C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/pngmem.c">
+			<Option target="png"/>
+			<Option target="png_static"/>
+		</Unit>
+		<Unit filename="C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/pngpread.c">
+			<Option target="png"/>
+			<Option target="png_static"/>
+		</Unit>
+		<Unit filename="C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/pngpriv.h">
+			<Option target="png"/>
+			<Option target="png_static"/>
+		</Unit>
+		<Unit filename="C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/pngread.c">
+			<Option target="png"/>
+			<Option target="png_static"/>
+		</Unit>
+		<Unit filename="C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/pngrio.c">
+			<Option target="png"/>
+			<Option target="png_static"/>
+		</Unit>
+		<Unit filename="C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/pngrtran.c">
+			<Option target="png"/>
+			<Option target="png_static"/>
+		</Unit>
+		<Unit filename="C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/pngrutil.c">
+			<Option target="png"/>
+			<Option target="png_static"/>
+		</Unit>
+		<Unit filename="C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/pngset.c">
+			<Option target="png"/>
+			<Option target="png_static"/>
+		</Unit>
+		<Unit filename="C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/pngstruct.h">
+			<Option target="png"/>
+			<Option target="png_static"/>
+		</Unit>
+		<Unit filename="C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/pngtest.c">
+			<Option target="pngtest"/>
+		</Unit>
+		<Unit filename="C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/pngtrans.c">
+			<Option target="png"/>
+			<Option target="png_static"/>
+		</Unit>
+		<Unit filename="C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/pngwio.c">
+			<Option target="png"/>
+			<Option target="png_static"/>
+		</Unit>
+		<Unit filename="C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/pngwrite.c">
+			<Option target="png"/>
+			<Option target="png_static"/>
+		</Unit>
+		<Unit filename="C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/pngwtran.c">
+			<Option target="png"/>
+			<Option target="png_static"/>
+		</Unit>
+		<Unit filename="C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/pngwutil.c">
+			<Option target="png"/>
+			<Option target="png_static"/>
+		</Unit>
+		<Unit filename="C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/libpng.pc.in">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/libpng-config.in">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/scripts/pnglibconf.h.prebuilt">
+			<Option virtualFolder="CMake Files\scripts\"/>
+		</Unit>
+		<Unit filename="C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/scripts/test.cmake.in">
+			<Option virtualFolder="CMake Files\scripts\"/>
+		</Unit>
+		<Unit filename="C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/scripts/test.cmake.in">
+			<Option virtualFolder="CMake Files\scripts\"/>
+		</Unit>
+		<Unit filename="C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/scripts/test.cmake.in">
+			<Option virtualFolder="CMake Files\scripts\"/>
+		</Unit>
+		<Unit filename="C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/scripts/test.cmake.in">
+			<Option virtualFolder="CMake Files\scripts\"/>
+		</Unit>
+		<Unit filename="C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/scripts/test.cmake.in">
+			<Option virtualFolder="CMake Files\scripts\"/>
+		</Unit>
+		<Unit filename="C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/scripts/test.cmake.in">
+			<Option virtualFolder="CMake Files\scripts\"/>
+		</Unit>
+		<Unit filename="C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/scripts/test.cmake.in">
+			<Option virtualFolder="CMake Files\scripts\"/>
+		</Unit>
+		<Unit filename="C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/scripts/test.cmake.in">
+			<Option virtualFolder="CMake Files\scripts\"/>
+		</Unit>
+		<Unit filename="C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/scripts/test.cmake.in">
+			<Option virtualFolder="CMake Files\scripts\"/>
+		</Unit>
+		<Unit filename="C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/scripts/test.cmake.in">
+			<Option virtualFolder="CMake Files\scripts\"/>
+		</Unit>
+		<Unit filename="C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/scripts/test.cmake.in">
+			<Option virtualFolder="CMake Files\scripts\"/>
+		</Unit>
+		<Unit filename="C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/scripts/test.cmake.in">
+			<Option virtualFolder="CMake Files\scripts\"/>
+		</Unit>
+		<Unit filename="C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/scripts/test.cmake.in">
+			<Option virtualFolder="CMake Files\scripts\"/>
+		</Unit>
+		<Unit filename="C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/scripts/test.cmake.in">
+			<Option virtualFolder="CMake Files\scripts\"/>
+		</Unit>
+		<Unit filename="C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/scripts/test.cmake.in">
+			<Option virtualFolder="CMake Files\scripts\"/>
+		</Unit>
+		<Unit filename="C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/scripts/test.cmake.in">
+			<Option virtualFolder="CMake Files\scripts\"/>
+		</Unit>
+		<Unit filename="C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/scripts/test.cmake.in">
+			<Option virtualFolder="CMake Files\scripts\"/>
+		</Unit>
+		<Unit filename="C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/scripts/test.cmake.in">
+			<Option virtualFolder="CMake Files\scripts\"/>
+		</Unit>
+		<Unit filename="C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/scripts/test.cmake.in">
+			<Option virtualFolder="CMake Files\scripts\"/>
+		</Unit>
+		<Unit filename="C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/scripts/test.cmake.in">
+			<Option virtualFolder="CMake Files\scripts\"/>
+		</Unit>
+		<Unit filename="C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/scripts/test.cmake.in">
+			<Option virtualFolder="CMake Files\scripts\"/>
+		</Unit>
+		<Unit filename="C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/scripts/test.cmake.in">
+			<Option virtualFolder="CMake Files\scripts\"/>
+		</Unit>
+		<Unit filename="C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/scripts/test.cmake.in">
+			<Option virtualFolder="CMake Files\scripts\"/>
+		</Unit>
+		<Unit filename="C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/scripts/test.cmake.in">
+			<Option virtualFolder="CMake Files\scripts\"/>
+		</Unit>
+		<Unit filename="C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/scripts/test.cmake.in">
+			<Option virtualFolder="CMake Files\scripts\"/>
+		</Unit>
+		<Unit filename="C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/scripts/test.cmake.in">
+			<Option virtualFolder="CMake Files\scripts\"/>
+		</Unit>
+		<Unit filename="C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/scripts/test.cmake.in">
+			<Option virtualFolder="CMake Files\scripts\"/>
+		</Unit>
+		<Unit filename="C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/scripts/test.cmake.in">
+			<Option virtualFolder="CMake Files\scripts\"/>
+		</Unit>
+		<Unit filename="C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/scripts/test.cmake.in">
+			<Option virtualFolder="CMake Files\scripts\"/>
+		</Unit>
+		<Unit filename="C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/scripts/test.cmake.in">
+			<Option virtualFolder="CMake Files\scripts\"/>
+		</Unit>
+		<Unit filename="C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/scripts/test.cmake.in">
+			<Option virtualFolder="CMake Files\scripts\"/>
+		</Unit>
+		<Unit filename="C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/scripts/test.cmake.in">
+			<Option virtualFolder="CMake Files\scripts\"/>
+		</Unit>
+		<Unit filename="C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/scripts/genchk.cmake.in">
+			<Option virtualFolder="CMake Files\scripts\"/>
+		</Unit>
+		<Unit filename="C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/scripts/genout.cmake.in">
+			<Option virtualFolder="CMake Files\scripts\"/>
+		</Unit>
+		<Unit filename="C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/scripts/gensrc.cmake.in">
+			<Option virtualFolder="CMake Files\scripts\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

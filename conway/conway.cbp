@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="conway" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/conway" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Option parameters="int argc, char **argv" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="../conway" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/conway" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Option parameters="int argc, char **argv" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add directory="lpng1629" />
+			<Add directory="C:/Program Files (x86)/GnuWin32/include" />
+		</Compiler>
+		<Linker>
+			<Add library="lpng1629/libpng.a" />
+			<Add library="lpng1629/libpng.dll.a" />
+			<Add library="lpng1629/libpng16.a" />
+			<Add library="lpng1629/libpng16.dll.a" />
+			<Add library="C:/Program Files (x86)/GnuWin32/lib/libz.a" />
+			<Add library="C:/Program Files (x86)/GnuWin32/lib/libz.dll.a" />
+			<Add library="C:/Program Files (x86)/GnuWin32/lib/zlib.lib" />
+			<Add directory="lpng1629" />
+			<Add directory="C:/Program Files (x86)/GnuWin32/include" />
+		</Linker>
+		<Unit filename="file_manager.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="file_manager.h" />
+		<Unit filename="grid_manager.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="grid_manager.h" />
+		<Unit filename="macierz.txt" />
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="main.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="png_generator.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="png_generator.h" />
+		<Unit filename="vars_and_tools.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="vars_and_tools.h" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

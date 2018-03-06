@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Program Files (x86)/GnuWin32/include/zconf.h
+windows.h
+-
+sys/types.h
+-
+unistd.h
+-
+unixio.h
+-
+
+C:/Program Files (x86)/GnuWin32/include/zlib.h
+zconf.h
+C:/Program Files (x86)/GnuWin32/include/zconf.h
+
+C:/Users/mati5/Documents/CodeBlocks/conway/lpng1629/contrib/tools/png-fix-itxt.c
+stdio.h
+-
+zlib.h
+-
+
